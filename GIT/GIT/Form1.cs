@@ -13,6 +13,7 @@ namespace GIT
     {
         public Form1()
         {
+            static int x;
             InitializeComponent();
         }
     }
